@@ -1,0 +1,25 @@
+body{
+    background-image: url(./607655.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+}
+.profileImg{
+    border-radius: 50%;
+}
+#mainProfile{
+    display: grid;
+    place-content: center;
+}
+div{
+    background-color: blanchedalmond;
+}
+h2{
+    color: cadetblue;
+}
+p1{
+    color: rgb(13, 19, 46);
+}
+h1{
+    font-family: 'Rouge Script', cursive;
+    color: white;
+}
